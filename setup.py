@@ -19,6 +19,7 @@ setup(
               'pied_poker.probability',
               'pied_poker.probability.events',
               'pied_poker.visualization',
+              'pied_poker.hole_cards'
               ],
     install_requires=['joblib', 'tqdm', 'numpy', 'seaborn', 'pandas', 'matplotlib', 'scipy'],
     classifiers=[
